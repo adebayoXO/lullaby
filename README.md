@@ -1,1 +1,3 @@
-Më-«Z
+Mï¿½-
+ï¿½Z
+Manually editing document and creating a commit
